@@ -11,6 +11,8 @@ If you are interested in getting to know me, feel free to follow my [Instagram](
 <p align="left">
 <a href="https://github.com/tobimaulana">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tobimaulana&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tobimaulana&layout=compact&langs_count=8&theme=algolia"/>
+
 </a>
 </p>
+
+![My Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tobimaulana&show_icons=true&theme=algolia))
